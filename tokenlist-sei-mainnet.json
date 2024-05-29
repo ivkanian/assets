@@ -53,6 +53,15 @@
       "symbol": "iSEI",
       "tags": [],
       "about": "Liquid staking on Sei! Sei no more!"
+    },
+    {
+      "chainId": 1329,
+      "address": "0x263090D507377F47E944C4dA0d4Ed2EEbeCF59dd",
+      "decimals": 18,
+      "name": "SEILORV2",
+      "symbol": "SeiV2",
+      "tags": [],
+      "about": "First and best memecoin in the chain"
     }
   ]
 }
